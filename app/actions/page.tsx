@@ -108,9 +108,9 @@ export default function ActionsPage() {
                   <div className="w-32 h-32 bg-gray-100 rounded-card mb-4 mx-auto flex items-center justify-center overflow-hidden">
                     {hasGif ? (
                       // eslint-disable-next-line @next/next/no-img-element
-                      <img 
-                        src={gifUrl!} 
-                        alt={action.verb} 
+                      <img
+                        src={gifUrl!}
+                        alt={action.verb}
                         className="w-full h-full object-cover"
                         onError={(e) => {
                           // Fallback to emoji if GIF fails to load
