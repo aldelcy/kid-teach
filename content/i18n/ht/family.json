@@ -1,0 +1,36 @@
+{
+  "roles": [
+    {
+      "id": "dada",
+      "label": "Dada"
+    },
+    {
+      "id": "mama",
+      "label": "Manman"
+    },
+    {
+      "id": "grandma",
+      "label": "Grann"
+    },
+    {
+      "id": "grandpa",
+      "label": "Granpapa"
+    },
+    {
+      "id": "aunt",
+      "label": "Matant"
+    },
+    {
+      "id": "uncle",
+      "label": "Tonton"
+    },
+    {
+      "id": "brother",
+      "label": "Frè"
+    },
+    {
+      "id": "sister",
+      "label": "Sè"
+    }
+  ]
+}

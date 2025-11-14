@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+  }
+
+  * {
+    border-color: theme('colors.gray.200');
+  }
+
+  body {
+    @apply bg-surface-light;
+    color: theme('colors.gray.900');
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Ensure large tap targets */
+  button, a, [role="button"] {
+    min-height: 48px;
+    min-width: 48px;
+  }
+
+  /* High contrast focus rings */
+  *:focus-visible {
+    @apply outline-2 outline-offset-2 outline-primary-500;
+  }
+
+  /* Respect reduced motion */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer components {
+  .tile-base {
+    @apply rounded-tile bg-white shadow-kid transition-all duration-200;
+    @apply hover:scale-105 active:scale-95;
+    min-height: 120px;
+    min-width: 120px;
+  }
+
+  .btn-primary {
+    @apply bg-primary-500 text-white rounded-card px-6 py-3;
+    @apply hover:bg-primary-600 active:bg-primary-700;
+    @apply focus:outline-2 focus:outline-offset-2 focus:outline-primary-500;
+    font-size: 1.25rem;
+    min-height: 48px;
+  }
+
+  .btn-secondary {
+    @apply bg-secondary-500 text-white rounded-card px-6 py-3;
+    @apply hover:bg-secondary-600 active:bg-secondary-700;
+    @apply focus:outline-2 focus:outline-offset-2 focus:outline-secondary-500;
+    font-size: 1.25rem;
+    min-height: 48px;
+  }
+
+  .text-kid-large {
+    font-size: 3rem;
+    line-height: 1.2;
+    font-weight: 700;
+  }
+}
+

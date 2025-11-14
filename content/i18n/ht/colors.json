@@ -1,0 +1,104 @@
+{
+  "colors": [
+    {
+      "id": "red",
+      "name": "Wouj",
+      "hex": "#EF4444",
+      "examples": [
+        "pòm",
+        "machin ponpye",
+        "tomat"
+      ]
+    },
+    {
+      "id": "blue",
+      "name": "Ble",
+      "hex": "#3B82F6",
+      "examples": [
+        "syèl",
+        "balèn",
+        "djins"
+      ]
+    },
+    {
+      "id": "green",
+      "name": "Vèt",
+      "hex": "#22C55E",
+      "examples": [
+        "fèy",
+        "krapo",
+        "sitwon vèt"
+      ]
+    },
+    {
+      "id": "yellow",
+      "name": "Jòn",
+      "hex": "#EAB308",
+      "examples": [
+        "solèy",
+        "bannann",
+        "ti kanna"
+      ]
+    },
+    {
+      "id": "orange",
+      "name": "Zoranj",
+      "hex": "#F97316",
+      "examples": [
+        "zoranj",
+        "karòt",
+        "joumou"
+      ]
+    },
+    {
+      "id": "purple",
+      "name": "Mov",
+      "hex": "#A855F7",
+      "examples": [
+        "rezen",
+        "violet",
+        "prin"
+      ]
+    },
+    {
+      "id": "pink",
+      "name": "Woz",
+      "hex": "#EC4899",
+      "examples": [
+        "flè",
+        "sirèt koton",
+        "flamingo"
+      ]
+    },
+    {
+      "id": "black",
+      "name": "Nwa",
+      "hex": "#111827",
+      "examples": [
+        "nwit",
+        "kle pyanon",
+        "panter"
+      ]
+    },
+    {
+      "id": "white",
+      "name": "Blan",
+      "hex": "#FFFFFF",
+      "examples": [
+        "nyaj",
+        "nèj",
+        "lèt"
+      ]
+    },
+    {
+      "id": "brown",
+      "name": "Mawon",
+      "hex": "#92400E",
+      "examples": [
+        "lous",
+        "chokola",
+        "kòt pyebwa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "letters": {
+    "en": {
+      "a": "/assets/audio/letters/en/alphasounds-a.mp3",
+      "b": "/assets/audio/letters/en/alphasounds-b.mp3",
+      "c": "/assets/audio/letters/en/alphasounds-c.mp3",
+      "d": "/assets/audio/letters/en/alphasounds-d.mp3",
+      "e": "/assets/audio/letters/en/alphasounds-e.mp3",
+      "f": "/assets/audio/letters/en/alphasounds-f.mp3",
+      "g": "/assets/audio/letters/en/alphasounds-g.mp3",
+      "h": "/assets/audio/letters/en/alphasounds-h.mp3",
+      "i": "/assets/audio/letters/en/alphasounds-i.mp3",
+      "j": "/assets/audio/letters/en/alphasounds-j.mp3",
+      "k": "/assets/audio/letters/en/alphasounds-k.mp3",
+      "l": "/assets/audio/letters/en/alphasounds-l.mp3",
+      "m": "/assets/audio/letters/en/alphasounds-m.mp3",
+      "n": "/assets/audio/letters/en/alphasounds-n.mp3",
+      "o": "/assets/audio/letters/en/alphasounds-o.mp3",
+      "p": "/assets/audio/letters/en/alphasounds-p.mp3",
+      "q": "/assets/audio/letters/en/alphasounds-q.mp3",
+      "r": "/assets/audio/letters/en/alphasounds-r.mp3",
+      "s": "/assets/audio/letters/en/alphasounds-s.mp3",
+      "t": "/assets/audio/letters/en/alphasounds-t.mp3",
+      "u": "/assets/audio/letters/en/alphasounds-u.mp3",
+      "v": "/assets/audio/letters/en/alphasounds-v.mp3",
+      "w": "/assets/audio/letters/en/alphasounds-w.mp3",
+      "x": "/assets/audio/letters/en/alphasounds-x.mp3",
+      "y": "/assets/audio/letters/en/alphasounds-y.mp3",
+      "z": "/assets/audio/letters/en/alphasounds-z.mp3"
+    },
+    "fr": {
+      "a": "/assets/audio/letters/fr/alphasounds-a.mp3",
+      "b": "/assets/audio/letters/fr/alphasounds-b.mp3",
+      "c": "/assets/audio/letters/fr/alphasounds-c.mp3",
+      "d": "/assets/audio/letters/fr/alphasounds-d.mp3",
+      "e": "/assets/audio/letters/fr/alphasounds-e.mp3",
+      "f": "/assets/audio/letters/fr/alphasounds-f.mp3",
+      "g": "/assets/audio/letters/fr/alphasounds-g.mp3",
+      "h": "/assets/audio/letters/fr/alphasounds-h.mp3",
+      "i": "/assets/audio/letters/fr/alphasounds-i.mp3",
+      "j": "/assets/audio/letters/fr/alphasounds-j.mp3",
+      "k": "/assets/audio/letters/fr/alphasounds-k.mp3",
+      "l": "/assets/audio/letters/fr/alphasounds-l.mp3",
+      "m": "/assets/audio/letters/fr/alphasounds-m.mp3",
+      "n": "/assets/audio/letters/fr/alphasounds-n.mp3",
+      "o": "/assets/audio/letters/fr/alphasounds-o.mp3",
+      "p": "/assets/audio/letters/fr/alphasounds-p.mp3",
+      "q": "/assets/audio/letters/fr/alphasounds-q.mp3",
+      "r": "/assets/audio/letters/fr/alphasounds-r.mp3",
+      "s": "/assets/audio/letters/fr/alphasounds-s.mp3",
+      "t": "/assets/audio/letters/fr/alphasounds-t.mp3",
+      "u": "/assets/audio/letters/fr/alphasounds-u.mp3",
+      "v": "/assets/audio/letters/fr/alphasounds-v.mp3",
+      "w": "/assets/audio/letters/fr/alphasounds-w.mp3",
+      "x": "/assets/audio/letters/fr/alphasounds-x.mp3",
+      "y": "/assets/audio/letters/fr/alphasounds-y.mp3",
+      "z": "/assets/audio/letters/fr/alphasounds-z.mp3"
+    }
+  },
+  "animals": {
+    "en": {
+      "cat": "/assets/audio/animals/en/cat.mp3",
+      "dog": "/assets/audio/animals/en/dog.mp3",
+      "duck": "/assets/audio/animals/en/duck.mp3"
+    },
+    "fr": {
+      "chat": "/assets/audio/animals/fr/chat.mp3",
+      "chien": "/assets/audio/animals/fr/chien.mp3",
+      "canard": "/assets/audio/animals/fr/canard.mp3"
+    }
+  },
+  "colors": {
+    "en": {
+      "red": "/assets/audio/colors/en/red.mp3",
+      "blue": "/assets/audio/colors/en/blue.mp3"
+    },
+    "fr": {
+      "rouge": "/assets/audio/colors/fr/rouge.mp3",
+      "bleu": "/assets/audio/colors/fr/bleu.mp3"
+    }
+  },
+  "family": {
+    "en": {
+      "dada": "/assets/audio/family/en/dada.mp3",
+      "mama": "/assets/audio/family/en/mama.mp3",
+      "aunt": "/assets/audio/family/en/tati.mp3"
+    },
+    "fr": {
+      "mama": "/assets/audio/family/fr/maman.mp3",
+      "dada": "/assets/audio/family/fr/papa.mp3",
+      "aunt": "/assets/audio/family/fr/tati.mp3"
+    }
+  }
+}

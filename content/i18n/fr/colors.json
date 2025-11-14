@@ -1,0 +1,104 @@
+{
+  "colors": [
+    {
+      "id": "red",
+      "name": "Rouge",
+      "hex": "#EF4444",
+      "examples": [
+        "pomme",
+        "camion de pompier",
+        "tomate"
+      ]
+    },
+    {
+      "id": "blue",
+      "name": "Bleu",
+      "hex": "#3B82F6",
+      "examples": [
+        "ciel",
+        "baleine",
+        "jeans"
+      ]
+    },
+    {
+      "id": "green",
+      "name": "Vert",
+      "hex": "#22C55E",
+      "examples": [
+        "feuille",
+        "grenouille",
+        "citron vert"
+      ]
+    },
+    {
+      "id": "yellow",
+      "name": "Jaune",
+      "hex": "#EAB308",
+      "examples": [
+        "soleil",
+        "banane",
+        "caneton"
+      ]
+    },
+    {
+      "id": "orange",
+      "name": "Orange",
+      "hex": "#F97316",
+      "examples": [
+        "orange",
+        "carotte",
+        "citrouille"
+      ]
+    },
+    {
+      "id": "purple",
+      "name": "Violet",
+      "hex": "#A855F7",
+      "examples": [
+        "raisin",
+        "violette",
+        "prune"
+      ]
+    },
+    {
+      "id": "pink",
+      "name": "Rose",
+      "hex": "#EC4899",
+      "examples": [
+        "fleur",
+        "barbe à papa",
+        "flamant"
+      ]
+    },
+    {
+      "id": "black",
+      "name": "Noir",
+      "hex": "#111827",
+      "examples": [
+        "nuit",
+        "touches de piano",
+        "panthère"
+      ]
+    },
+    {
+      "id": "white",
+      "name": "Blanc",
+      "hex": "#FFFFFF",
+      "examples": [
+        "nuage",
+        "neige",
+        "lait"
+      ]
+    },
+    {
+      "id": "brown",
+      "name": "Marron",
+      "hex": "#92400E",
+      "examples": [
+        "ours",
+        "chocolat",
+        "écorce d'arbre"
+      ]
+    }
+  ]
+}

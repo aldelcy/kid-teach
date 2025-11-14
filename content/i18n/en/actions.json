@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "id": "clap",
+      "verb": "Clap",
+      "motionHint": "pulse"
+    },
+    {
+      "id": "jump",
+      "verb": "Jump",
+      "motionHint": "bounce"
+    },
+    {
+      "id": "sleep",
+      "verb": "Sleep",
+      "motionHint": "fade"
+    },
+    {
+      "id": "eat",
+      "verb": "Eat",
+      "motionHint": "nibble"
+    },
+    {
+      "id": "drink",
+      "verb": "Drink",
+      "motionHint": "tilt"
+    },
+    {
+      "id": "run",
+      "verb": "Run",
+      "motionHint": "slide"
+    },
+    {
+      "id": "hug",
+      "verb": "Hug",
+      "motionHint": "squeeze"
+    },
+    {
+      "id": "wave",
+      "verb": "Wave",
+      "motionHint": "wave"
+    },
+    {
+      "id": "read",
+      "verb": "Read",
+      "motionHint": "flip"
+    },
+    {
+      "id": "dance",
+      "verb": "Dance",
+      "motionHint": "wiggle"
+    }
+  ]
+}

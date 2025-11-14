@@ -1,0 +1,64 @@
+{
+  "animals": [
+    {
+      "id": "cat",
+      "name": "Chat",
+      "image": "/assets/images/animals/cat.jpg",
+      "soundKey": "animals.ht.chat"
+    },
+    {
+      "id": "dog",
+      "name": "Chen",
+      "image": "/assets/images/animals/dog.jpg",
+      "soundKey": "animals.ht.chen"
+    },
+    {
+      "id": "cow",
+      "name": "Bèf",
+      "image": "/assets/images/animals/cow.jpg",
+      "soundKey": "animals.ht.bef"
+    },
+    {
+      "id": "sheep",
+      "name": "Mouton",
+      "image": "/assets/images/animals/sheep.jpg",
+      "soundKey": "animals.ht.mouton"
+    },
+    {
+      "id": "duck",
+      "name": "Kanna",
+      "image": "/assets/images/animals/duck.jpg",
+      "soundKey": "animals.ht.kanna"
+    },
+    {
+      "id": "lion",
+      "name": "Lyon",
+      "image": "/assets/images/animals/lion.jpg",
+      "soundKey": "animals.ht.lyon"
+    },
+    {
+      "id": "elephant",
+      "name": "Elefan",
+      "image": "/assets/images/animals/elephant.jpg",
+      "soundKey": "animals.ht.elefan"
+    },
+    {
+      "id": "bird",
+      "name": "Zwazo",
+      "image": "/assets/images/animals/bird.jpg",
+      "soundKey": "animals.ht.zwazo"
+    },
+    {
+      "id": "fish",
+      "name": "Pwason",
+      "image": "/assets/images/animals/fish.jpg",
+      "soundKey": "animals.ht.pwason"
+    },
+    {
+      "id": "horse",
+      "name": "Chwal",
+      "image": "/assets/images/animals/horse.jpg",
+      "soundKey": "animals.ht.chwal"
+    }
+  ]
+}

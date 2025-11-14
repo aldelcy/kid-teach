@@ -1,0 +1,28 @@
+{
+  "name": "KidTeach - Learn Alphabet, Colors, Animals & More",
+  "short_name": "KidTeach",
+  "description": "A tablet-first PWA for toddlers to learn alphabet, colors, animals, family members, and actions",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ef4444",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "kids"],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
+

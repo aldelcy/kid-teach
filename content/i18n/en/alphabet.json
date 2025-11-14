@@ -1,0 +1,680 @@
+{
+  "letters": [
+    {
+      "id": "a",
+      "upper": "A",
+      "lower": "a",
+      "examples": [
+        {
+          "word": "apple",
+          "image": "https://img.freepik.com/free-psd/close-up-delicious-apple_23-2151868338.jpg?semt=ais_hybrid&w=740&q=80",
+          "audioKey": "letters.en.a.word.apple",
+          "sound": "/assets/audio/letters/en/examples/apple.mp3"
+        },
+        {
+          "word": "ant",
+          "image": "https://www.amdro.com/-/media/Project/OneWeb/Amdro/Images/pest-id/cover-images/ant.jpg",
+          "audioKey": "letters.en.a.word.ant",
+          "sound": "/assets/audio/letters/en/examples/ant.mp3"
+        },
+        {
+          "word": "airplane",
+          "image": "/assets/images/alphabet/a/airplane.jpg",
+          "audioKey": "letters.en.a.word.airplane",
+          "sound": "/assets/audio/letters/en/examples/airplane.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.a"
+    },
+    {
+      "id": "b",
+      "upper": "B",
+      "lower": "b",
+      "examples": [
+        {
+          "word": "ball",
+          "image": "/assets/images/alphabet/b/ball.jpg",
+          "audioKey": "letters.en.b.word.ball",
+          "sound": "/assets/audio/letters/en/examples/ball.mp3"
+        },
+        {
+          "word": "banana",
+          "image": "/assets/images/alphabet/b/banana.jpg",
+          "audioKey": "letters.en.b.word.banana",
+          "sound": "/assets/audio/letters/en/examples/banana.mp3"
+        },
+        {
+          "word": "bear",
+          "image": "/assets/images/alphabet/b/bear.jpg",
+          "audioKey": "letters.en.b.word.bear",
+          "sound": "/assets/audio/letters/en/examples/bear.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.b"
+    },
+    {
+      "id": "c",
+      "upper": "C",
+      "lower": "c",
+      "examples": [
+        {
+          "word": "cat",
+          "image": "/assets/images/alphabet/c/cat.jpg",
+          "audioKey": "letters.en.c.word.cat",
+          "sound": "/assets/audio/letters/en/examples/cat.mp3"
+        },
+        {
+          "word": "car",
+          "image": "/assets/images/alphabet/c/car.jpg",
+          "audioKey": "letters.en.c.word.car",
+          "sound": "/assets/audio/letters/en/examples/car.mp3"
+        },
+        {
+          "word": "cake",
+          "image": "/assets/images/alphabet/c/cake.jpg",
+          "audioKey": "letters.en.c.word.cake",
+          "sound": "/assets/audio/letters/en/examples/cake.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.c"
+    },
+    {
+      "id": "d",
+      "upper": "D",
+      "lower": "d",
+      "examples": [
+        {
+          "word": "dog",
+          "image": "/assets/images/alphabet/d/dog.jpg",
+          "audioKey": "letters.en.d.word.dog",
+          "sound": "/assets/audio/letters/en/examples/dog.mp3"
+        },
+        {
+          "word": "duck",
+          "image": "/assets/images/alphabet/d/duck.jpg",
+          "audioKey": "letters.en.d.word.duck",
+          "sound": "/assets/audio/letters/en/examples/duck.mp3"
+        },
+        {
+          "word": "door",
+          "image": "/assets/images/alphabet/d/door.jpg",
+          "audioKey": "letters.en.d.word.door",
+          "sound": "/assets/audio/letters/en/examples/door.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.d"
+    },
+    {
+      "id": "e",
+      "upper": "E",
+      "lower": "e",
+      "examples": [
+        {
+          "word": "egg",
+          "image": "/assets/images/alphabet/e/egg.jpg",
+          "audioKey": "letters.en.e.word.egg",
+          "sound": "/assets/audio/letters/en/examples/egg.mp3"
+        },
+        {
+          "word": "elephant",
+          "image": "/assets/images/alphabet/e/elephant.jpg",
+          "audioKey": "letters.en.e.word.elephant",
+          "sound": "/assets/audio/letters/en/examples/elephant.mp3"
+        },
+        {
+          "word": "eye",
+          "image": "/assets/images/alphabet/e/eye.jpg",
+          "audioKey": "letters.en.e.word.eye",
+          "sound": "/assets/audio/letters/en/examples/eye.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.e"
+    },
+    {
+      "id": "f",
+      "upper": "F",
+      "lower": "f",
+      "examples": [
+        {
+          "word": "fish",
+          "image": "/assets/images/alphabet/f/fish.jpg",
+          "audioKey": "letters.en.f.word.fish",
+          "sound": "/assets/audio/letters/en/examples/fish.mp3"
+        },
+        {
+          "word": "flower",
+          "image": "/assets/images/alphabet/f/flower.jpg",
+          "audioKey": "letters.en.f.word.flower",
+          "sound": "/assets/audio/letters/en/examples/flower.mp3"
+        },
+        {
+          "word": "frog",
+          "image": "/assets/images/alphabet/f/frog.jpg",
+          "audioKey": "letters.en.f.word.frog",
+          "sound": "/assets/audio/letters/en/examples/frog.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.f"
+    },
+    {
+      "id": "g",
+      "upper": "G",
+      "lower": "g",
+      "examples": [
+        {
+          "word": "giraffe",
+          "image": "/assets/images/alphabet/g/giraffe.jpg",
+          "audioKey": "letters.en.g.word.giraffe",
+          "sound": "/assets/audio/letters/en/examples/giraffe.mp3"
+        },
+        {
+          "word": "grape",
+          "image": "/assets/images/alphabet/g/grape.jpg",
+          "audioKey": "letters.en.g.word.grape",
+          "sound": "/assets/audio/letters/en/examples/grape.mp3"
+        },
+        {
+          "word": "grass",
+          "image": "/assets/images/alphabet/g/grass.jpg",
+          "audioKey": "letters.en.g.word.grass",
+          "sound": "/assets/audio/letters/en/examples/grass.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.g"
+    },
+    {
+      "id": "h",
+      "upper": "H",
+      "lower": "h",
+      "examples": [
+        {
+          "word": "house",
+          "image": "/assets/images/alphabet/h/house.jpg",
+          "audioKey": "letters.en.h.word.house",
+          "sound": "/assets/audio/letters/en/examples/house.mp3"
+        },
+        {
+          "word": "hat",
+          "image": "/assets/images/alphabet/h/hat.jpg",
+          "audioKey": "letters.en.h.word.hat",
+          "sound": "/assets/audio/letters/en/examples/hat.mp3"
+        },
+        {
+          "word": "horse",
+          "image": "/assets/images/alphabet/h/horse.jpg",
+          "audioKey": "letters.en.h.word.horse",
+          "sound": "/assets/audio/letters/en/examples/horse.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.h"
+    },
+    {
+      "id": "i",
+      "upper": "I",
+      "lower": "i",
+      "examples": [
+        {
+          "word": "ice",
+          "image": "/assets/images/alphabet/i/ice.jpg",
+          "audioKey": "letters.en.i.word.ice",
+          "sound": "/assets/audio/letters/en/examples/ice.mp3"
+        },
+        {
+          "word": "igloo",
+          "image": "/assets/images/alphabet/i/igloo.jpg",
+          "audioKey": "letters.en.i.word.igloo",
+          "sound": "/assets/audio/letters/en/examples/igloo.mp3"
+        },
+        {
+          "word": "insect",
+          "image": "/assets/images/alphabet/i/insect.jpg",
+          "audioKey": "letters.en.i.word.insect",
+          "sound": "/assets/audio/letters/en/examples/insect.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.i"
+    },
+    {
+      "id": "j",
+      "upper": "J",
+      "lower": "j",
+      "examples": [
+        {
+          "word": "juice",
+          "image": "/assets/images/alphabet/j/juice.jpg",
+          "audioKey": "letters.en.j.word.juice",
+          "sound": "/assets/audio/letters/en/examples/juice.mp3"
+        },
+        {
+          "word": "jacket",
+          "image": "/assets/images/alphabet/j/jacket.jpg",
+          "audioKey": "letters.en.j.word.jacket",
+          "sound": "/assets/audio/letters/en/examples/jacket.mp3"
+        },
+        {
+          "word": "jellyfish",
+          "image": "/assets/images/alphabet/j/jellyfish.jpg",
+          "audioKey": "letters.en.j.word.jellyfish",
+          "sound": "/assets/audio/letters/en/examples/jellyfish.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.j"
+    },
+    {
+      "id": "k",
+      "upper": "K",
+      "lower": "k",
+      "examples": [
+        {
+          "word": "key",
+          "image": "/assets/images/alphabet/k/key.jpg",
+          "audioKey": "letters.en.k.word.key",
+          "sound": "/assets/audio/letters/en/examples/key.mp3"
+        },
+        {
+          "word": "kite",
+          "image": "/assets/images/alphabet/k/kite.jpg",
+          "audioKey": "letters.en.k.word.kite",
+          "sound": "/assets/audio/letters/en/examples/kite.mp3"
+        },
+        {
+          "word": "kitchen",
+          "image": "/assets/images/alphabet/k/kitchen.jpg",
+          "audioKey": "letters.en.k.word.kitchen",
+          "sound": "/assets/audio/letters/en/examples/kitchen.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.k"
+    },
+    {
+      "id": "l",
+      "upper": "L",
+      "lower": "l",
+      "examples": [
+        {
+          "word": "lion",
+          "image": "/assets/images/alphabet/l/lion.jpg",
+          "audioKey": "letters.en.l.word.lion",
+          "sound": "/assets/audio/letters/en/examples/lion.mp3"
+        },
+        {
+          "word": "leaf",
+          "image": "/assets/images/alphabet/l/leaf.jpg",
+          "audioKey": "letters.en.l.word.leaf",
+          "sound": "/assets/audio/letters/en/examples/leaf.mp3"
+        },
+        {
+          "word": "lamp",
+          "image": "/assets/images/alphabet/l/lamp.jpg",
+          "audioKey": "letters.en.l.word.lamp",
+          "sound": "/assets/audio/letters/en/examples/lamp.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.l"
+    },
+    {
+      "id": "m",
+      "upper": "M",
+      "lower": "m",
+      "examples": [
+        {
+          "word": "moon",
+          "image": "/assets/images/alphabet/m/moon.jpg",
+          "audioKey": "letters.en.m.word.moon",
+          "sound": "/assets/audio/letters/en/examples/moon.mp3"
+        },
+        {
+          "word": "mouse",
+          "image": "/assets/images/alphabet/m/mouse.jpg",
+          "audioKey": "letters.en.m.word.mouse",
+          "sound": "/assets/audio/letters/en/examples/mouse.mp3"
+        },
+        {
+          "word": "milk",
+          "image": "/assets/images/alphabet/m/milk.jpg",
+          "audioKey": "letters.en.m.word.milk",
+          "sound": "/assets/audio/letters/en/examples/milk.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.m"
+    },
+    {
+      "id": "n",
+      "upper": "N",
+      "lower": "n",
+      "examples": [
+        {
+          "word": "nest",
+          "image": "/assets/images/alphabet/n/nest.jpg",
+          "audioKey": "letters.en.n.word.nest",
+          "sound": "/assets/audio/letters/en/examples/nest.mp3"
+        },
+        {
+          "word": "nose",
+          "image": "/assets/images/alphabet/n/nose.jpg",
+          "audioKey": "letters.en.n.word.nose",
+          "sound": "/assets/audio/letters/en/examples/nose.mp3"
+        },
+        {
+          "word": "nut",
+          "image": "/assets/images/alphabet/n/nut.jpg",
+          "audioKey": "letters.en.n.word.nut",
+          "sound": "/assets/audio/letters/en/examples/nut.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.n"
+    },
+    {
+      "id": "o",
+      "upper": "O",
+      "lower": "o",
+      "examples": [
+        {
+          "word": "orange",
+          "image": "/assets/images/alphabet/o/orange.jpg",
+          "audioKey": "letters.en.o.word.orange",
+          "sound": "/assets/audio/letters/en/examples/orange.mp3"
+        },
+        {
+          "word": "owl",
+          "image": "/assets/images/alphabet/o/owl.jpg",
+          "audioKey": "letters.en.o.word.owl",
+          "sound": "/assets/audio/letters/en/examples/owl.mp3"
+        },
+        {
+          "word": "octopus",
+          "image": "/assets/images/alphabet/o/octopus.jpg",
+          "audioKey": "letters.en.o.word.octopus",
+          "sound": "/assets/audio/letters/en/examples/octopus.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.o"
+    },
+    {
+      "id": "p",
+      "upper": "P",
+      "lower": "p",
+      "examples": [
+        {
+          "word": "pig",
+          "image": "/assets/images/alphabet/p/pig.jpg",
+          "audioKey": "letters.en.p.word.pig",
+          "sound": "/assets/audio/letters/en/examples/pig.mp3"
+        },
+        {
+          "word": "penguin",
+          "image": "/assets/images/alphabet/p/penguin.jpg",
+          "audioKey": "letters.en.p.word.penguin",
+          "sound": "/assets/audio/letters/en/examples/penguin.mp3"
+        },
+        {
+          "word": "pineapple",
+          "image": "/assets/images/alphabet/p/pineapple.jpg",
+          "audioKey": "letters.en.p.word.pineapple",
+          "sound": "/assets/audio/letters/en/examples/pineapple.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.p"
+    },
+    {
+      "id": "q",
+      "upper": "Q",
+      "lower": "q",
+      "examples": [
+        {
+          "word": "queen",
+          "image": "/assets/images/alphabet/q/queen.jpg",
+          "audioKey": "letters.en.q.word.queen",
+          "sound": "/assets/audio/letters/en/examples/queen.mp3"
+        },
+        {
+          "word": "quail",
+          "image": "/assets/images/alphabet/q/quail.jpg",
+          "audioKey": "letters.en.q.word.quail",
+          "sound": "/assets/audio/letters/en/examples/quail.mp3"
+        },
+        {
+          "word": "quilt",
+          "image": "/assets/images/alphabet/q/quilt.jpg",
+          "audioKey": "letters.en.q.word.quilt",
+          "sound": "/assets/audio/letters/en/examples/quilt.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.q"
+    },
+    {
+      "id": "r",
+      "upper": "R",
+      "lower": "r",
+      "examples": [
+        {
+          "word": "rabbit",
+          "image": "/assets/images/alphabet/r/rabbit.jpg",
+          "audioKey": "letters.en.r.word.rabbit",
+          "sound": "/assets/audio/letters/en/examples/rabbit.mp3"
+        },
+        {
+          "word": "rainbow",
+          "image": "/assets/images/alphabet/r/rainbow.jpg",
+          "audioKey": "letters.en.r.word.rainbow",
+          "sound": "/assets/audio/letters/en/examples/rainbow.mp3"
+        },
+        {
+          "word": "robot",
+          "image": "/assets/images/alphabet/r/robot.jpg",
+          "audioKey": "letters.en.r.word.robot",
+          "sound": "/assets/audio/letters/en/examples/robot.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.r"
+    },
+    {
+      "id": "s",
+      "upper": "S",
+      "lower": "s",
+      "examples": [
+        {
+          "word": "sun",
+          "image": "/assets/images/alphabet/s/sun.jpg",
+          "audioKey": "letters.en.s.word.sun",
+          "sound": "/assets/audio/letters/en/examples/sun.mp3"
+        },
+        {
+          "word": "star",
+          "image": "/assets/images/alphabet/s/star.jpg",
+          "audioKey": "letters.en.s.word.star",
+          "sound": "/assets/audio/letters/en/examples/star.mp3"
+        },
+        {
+          "word": "snake",
+          "image": "/assets/images/alphabet/s/snake.jpg",
+          "audioKey": "letters.en.s.word.snake",
+          "sound": "/assets/audio/letters/en/examples/snake.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.s"
+    },
+    {
+      "id": "t",
+      "upper": "T",
+      "lower": "t",
+      "examples": [
+        {
+          "word": "tiger",
+          "image": "/assets/images/alphabet/t/tiger.jpg",
+          "audioKey": "letters.en.t.word.tiger",
+          "sound": "/assets/audio/letters/en/examples/tiger.mp3"
+        },
+        {
+          "word": "tree",
+          "image": "/assets/images/alphabet/t/tree.jpg",
+          "audioKey": "letters.en.t.word.tree",
+          "sound": "/assets/audio/letters/en/examples/tree.mp3"
+        },
+        {
+          "word": "train",
+          "image": "/assets/images/alphabet/t/train.jpg",
+          "audioKey": "letters.en.t.word.train",
+          "sound": "/assets/audio/letters/en/examples/train.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.t"
+    },
+    {
+      "id": "u",
+      "upper": "U",
+      "lower": "u",
+      "examples": [
+        {
+          "word": "umbrella",
+          "image": "/assets/images/alphabet/u/umbrella.jpg",
+          "audioKey": "letters.en.u.word.umbrella",
+          "sound": "/assets/audio/letters/en/examples/umbrella.mp3"
+        },
+        {
+          "word": "unicorn",
+          "image": "/assets/images/alphabet/u/unicorn.jpg",
+          "audioKey": "letters.en.u.word.unicorn",
+          "sound": "/assets/audio/letters/en/examples/unicorn.mp3"
+        },
+        {
+          "word": "underwear",
+          "image": "/assets/images/alphabet/u/underwear.jpg",
+          "audioKey": "letters.en.u.word.underwear",
+          "sound": "/assets/audio/letters/en/examples/underwear.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.u"
+    },
+    {
+      "id": "v",
+      "upper": "V",
+      "lower": "v",
+      "examples": [
+        {
+          "word": "violin",
+          "image": "/assets/images/alphabet/v/violin.jpg",
+          "audioKey": "letters.en.v.word.violin",
+          "sound": "/assets/audio/letters/en/examples/violin.mp3"
+        },
+        {
+          "word": "van",
+          "image": "/assets/images/alphabet/v/van.jpg",
+          "audioKey": "letters.en.v.word.van",
+          "sound": "/assets/audio/letters/en/examples/van.mp3"
+        },
+        {
+          "word": "vegetable",
+          "image": "/assets/images/alphabet/v/vegetable.jpg",
+          "audioKey": "letters.en.v.word.vegetable",
+          "sound": "/assets/audio/letters/en/examples/vegetable.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.v"
+    },
+    {
+      "id": "w",
+      "upper": "W",
+      "lower": "w",
+      "examples": [
+        {
+          "word": "water",
+          "image": "/assets/images/alphabet/w/water.jpg",
+          "audioKey": "letters.en.w.word.water",
+          "sound": "/assets/audio/letters/en/examples/water.mp3"
+        },
+        {
+          "word": "whale",
+          "image": "/assets/images/alphabet/w/whale.jpg",
+          "audioKey": "letters.en.w.word.whale",
+          "sound": "/assets/audio/letters/en/examples/whale.mp3"
+        },
+        {
+          "word": "window",
+          "image": "/assets/images/alphabet/w/window.jpg",
+          "audioKey": "letters.en.w.word.window",
+          "sound": "/assets/audio/letters/en/examples/window.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.w"
+    },
+    {
+      "id": "x",
+      "upper": "X",
+      "lower": "x",
+      "examples": [
+        {
+          "word": "xylophone",
+          "image": "/assets/images/alphabet/x/xylophone.jpg",
+          "audioKey": "letters.en.x.word.xylophone",
+          "sound": "/assets/audio/letters/en/examples/xylophone.mp3"
+        },
+        {
+          "word": "x-ray",
+          "image": "/assets/images/alphabet/x/xray.jpg",
+          "audioKey": "letters.en.x.word.xray",
+          "sound": "/assets/audio/letters/en/examples/xray.mp3"
+        },
+        {
+          "word": "fox",
+          "image": "/assets/images/alphabet/x/fox.jpg",
+          "audioKey": "letters.en.x.word.fox",
+          "sound": "/assets/audio/letters/en/examples/fox.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.x"
+    },
+    {
+      "id": "y",
+      "upper": "Y",
+      "lower": "y",
+      "examples": [
+        {
+          "word": "yak",
+          "image": "/assets/images/alphabet/y/yak.jpg",
+          "audioKey": "letters.en.y.word.yak",
+          "sound": "/assets/audio/letters/en/examples/yak.mp3"
+        },
+        {
+          "word": "yogurt",
+          "image": "/assets/images/alphabet/y/yogurt.jpg",
+          "audioKey": "letters.en.y.word.yogurt",
+          "sound": "/assets/audio/letters/en/examples/yogurt.mp3"
+        },
+        {
+          "word": "yo-yo",
+          "image": "/assets/images/alphabet/y/yoyo.jpg",
+          "audioKey": "letters.en.y.word.yoyo",
+          "sound": "/assets/audio/letters/en/examples/yoyo.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.y"
+    },
+    {
+      "id": "z",
+      "upper": "Z",
+      "lower": "z",
+      "examples": [
+        {
+          "word": "zebra",
+          "image": "/assets/images/alphabet/z/zebra.jpg",
+          "audioKey": "letters.en.z.word.zebra",
+          "sound": "/assets/audio/letters/en/examples/zebra.mp3"
+        },
+        {
+          "word": "zoo",
+          "image": "/assets/images/alphabet/z/zoo.jpg",
+          "audioKey": "letters.en.z.word.zoo",
+          "sound": "/assets/audio/letters/en/examples/zoo.mp3"
+        },
+        {
+          "word": "zipper",
+          "image": "/assets/images/alphabet/z/zipper.jpg",
+          "audioKey": "letters.en.z.word.zipper",
+          "sound": "/assets/audio/letters/en/examples/zipper.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.en.z"
+    }
+  ]
+}

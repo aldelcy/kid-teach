@@ -1,0 +1,13 @@
+{
+  "shapes": [
+    {"id": "circle", "name": "Cercle"},
+    {"id": "square", "name": "Carré"},
+    {"id": "triangle", "name": "Triangle"},
+    {"id": "rectangle", "name": "Rectangle"},
+    {"id": "oval", "name": "Ovale"},
+    {"id": "star", "name": "Étoile"},
+    {"id": "heart", "name": "Cœur"},
+    {"id": "diamond", "name": "Losange"}
+  ]
+}
+

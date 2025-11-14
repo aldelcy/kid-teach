@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "id": "clap",
+      "verb": "Bat men",
+      "motionHint": "pulse"
+    },
+    {
+      "id": "jump",
+      "verb": "Sote",
+      "motionHint": "bounce"
+    },
+    {
+      "id": "sleep",
+      "verb": "Dòmi",
+      "motionHint": "fade"
+    },
+    {
+      "id": "eat",
+      "verb": "Manje",
+      "motionHint": "nibble"
+    },
+    {
+      "id": "drink",
+      "verb": "Bwè",
+      "motionHint": "tilt"
+    },
+    {
+      "id": "run",
+      "verb": "Kouri",
+      "motionHint": "slide"
+    },
+    {
+      "id": "hug",
+      "verb": "Anbrase",
+      "motionHint": "squeeze"
+    },
+    {
+      "id": "wave",
+      "verb": "Salue",
+      "motionHint": "wave"
+    },
+    {
+      "id": "read",
+      "verb": "Li",
+      "motionHint": "flip"
+    },
+    {
+      "id": "dance",
+      "verb": "Danse",
+      "motionHint": "wiggle"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "shapes": [
+    {"id": "circle", "name": "Circle"},
+    {"id": "square", "name": "Square"},
+    {"id": "triangle", "name": "Triangle"},
+    {"id": "rectangle", "name": "Rectangle"},
+    {"id": "oval", "name": "Oval"},
+    {"id": "star", "name": "Star"},
+    {"id": "heart", "name": "Heart"},
+    {"id": "diamond", "name": "Diamond"}
+  ]
+}
+

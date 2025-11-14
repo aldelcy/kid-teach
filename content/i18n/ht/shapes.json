@@ -1,0 +1,13 @@
+{
+  "shapes": [
+    {"id": "circle", "name": "Sèk"},
+    {"id": "square", "name": "Kare"},
+    {"id": "triangle", "name": "Triyang"},
+    {"id": "rectangle", "name": "Rektang"},
+    {"id": "oval", "name": "Oval"},
+    {"id": "star", "name": "Zetwal"},
+    {"id": "heart", "name": "Kè"},
+    {"id": "diamond", "name": "Dyaman"}
+  ]
+}
+

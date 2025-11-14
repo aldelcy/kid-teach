@@ -1,0 +1,243 @@
+{
+  "letters": [
+    {
+      "id": "a",
+      "upper": "A",
+      "lower": "a",
+      "examples": [
+        {
+          "word": "pòm",
+          "image": "/assets/images/alphabet/a/pom.jpg",
+          "audioKey": "letters.ht.a.word.pom",
+          "sound": "/assets/audio/letters/ht/examples/pom.mp3"
+        },
+        {
+          "word": "foumi",
+          "image": "/assets/images/alphabet/a/foumi.jpg",
+          "audioKey": "letters.ht.a.word.foumi",
+          "sound": "/assets/audio/letters/ht/examples/foumi.mp3"
+        },
+        {
+          "word": "avyon",
+          "image": "/assets/images/alphabet/a/avyon.jpg",
+          "audioKey": "letters.ht.a.word.avyon",
+          "sound": "/assets/audio/letters/ht/examples/avyon.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.ht.a"
+    },
+    {
+      "id": "b",
+      "upper": "B",
+      "lower": "b",
+      "examples": [
+        {
+          "word": "boul",
+          "image": "/assets/images/alphabet/b/boul.jpg",
+          "audioKey": "letters.ht.b.word.boul",
+          "sound": "/assets/audio/letters/ht/examples/boul.mp3"
+        },
+        {
+          "word": "bannann",
+          "image": "/assets/images/alphabet/b/bannann.jpg",
+          "audioKey": "letters.ht.b.word.bannann",
+          "sound": "/assets/audio/letters/ht/examples/bannann.mp3"
+        },
+        {
+          "word": "lous",
+          "image": "/assets/images/alphabet/b/lous.jpg",
+          "audioKey": "letters.ht.b.word.lous",
+          "sound": "/assets/audio/letters/ht/examples/lous.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.ht.b"
+    },
+    {
+      "id": "c",
+      "upper": "C",
+      "lower": "c",
+      "examples": [
+        {
+          "word": "chat",
+          "image": "/assets/images/alphabet/c/chat.jpg",
+          "audioKey": "letters.ht.c.word.chat",
+          "sound": "/assets/audio/letters/ht/examples/chat.mp3"
+        },
+        {
+          "word": "machin",
+          "image": "/assets/images/alphabet/c/machin.jpg",
+          "audioKey": "letters.ht.c.word.machin",
+          "sound": "/assets/audio/letters/ht/examples/machin.mp3"
+        },
+        {
+          "word": "gato",
+          "image": "/assets/images/alphabet/c/gato.jpg",
+          "audioKey": "letters.ht.c.word.gato",
+          "sound": "/assets/audio/letters/ht/examples/gato.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.ht.c"
+    },
+    {
+      "id": "d",
+      "upper": "D",
+      "lower": "d",
+      "examples": [],
+      "letterAudioKey": "letters.ht.d"
+    },
+    {
+      "id": "e",
+      "upper": "E",
+      "lower": "e",
+      "examples": [],
+      "letterAudioKey": "letters.ht.e"
+    },
+    {
+      "id": "f",
+      "upper": "F",
+      "lower": "f",
+      "examples": [],
+      "letterAudioKey": "letters.ht.f"
+    },
+    {
+      "id": "g",
+      "upper": "G",
+      "lower": "g",
+      "examples": [],
+      "letterAudioKey": "letters.ht.g"
+    },
+    {
+      "id": "h",
+      "upper": "H",
+      "lower": "h",
+      "examples": [],
+      "letterAudioKey": "letters.ht.h"
+    },
+    {
+      "id": "i",
+      "upper": "I",
+      "lower": "i",
+      "examples": [],
+      "letterAudioKey": "letters.ht.i"
+    },
+    {
+      "id": "j",
+      "upper": "J",
+      "lower": "j",
+      "examples": [],
+      "letterAudioKey": "letters.ht.j"
+    },
+    {
+      "id": "k",
+      "upper": "K",
+      "lower": "k",
+      "examples": [],
+      "letterAudioKey": "letters.ht.k"
+    },
+    {
+      "id": "l",
+      "upper": "L",
+      "lower": "l",
+      "examples": [],
+      "letterAudioKey": "letters.ht.l"
+    },
+    {
+      "id": "m",
+      "upper": "M",
+      "lower": "m",
+      "examples": [],
+      "letterAudioKey": "letters.ht.m"
+    },
+    {
+      "id": "n",
+      "upper": "N",
+      "lower": "n",
+      "examples": [],
+      "letterAudioKey": "letters.ht.n"
+    },
+    {
+      "id": "o",
+      "upper": "O",
+      "lower": "o",
+      "examples": [],
+      "letterAudioKey": "letters.ht.o"
+    },
+    {
+      "id": "p",
+      "upper": "P",
+      "lower": "p",
+      "examples": [],
+      "letterAudioKey": "letters.ht.p"
+    },
+    {
+      "id": "q",
+      "upper": "Q",
+      "lower": "q",
+      "examples": [],
+      "letterAudioKey": "letters.ht.q"
+    },
+    {
+      "id": "r",
+      "upper": "R",
+      "lower": "r",
+      "examples": [],
+      "letterAudioKey": "letters.ht.r"
+    },
+    {
+      "id": "s",
+      "upper": "S",
+      "lower": "s",
+      "examples": [],
+      "letterAudioKey": "letters.ht.s"
+    },
+    {
+      "id": "t",
+      "upper": "T",
+      "lower": "t",
+      "examples": [],
+      "letterAudioKey": "letters.ht.t"
+    },
+    {
+      "id": "u",
+      "upper": "U",
+      "lower": "u",
+      "examples": [],
+      "letterAudioKey": "letters.ht.u"
+    },
+    {
+      "id": "v",
+      "upper": "V",
+      "lower": "v",
+      "examples": [],
+      "letterAudioKey": "letters.ht.v"
+    },
+    {
+      "id": "w",
+      "upper": "W",
+      "lower": "w",
+      "examples": [],
+      "letterAudioKey": "letters.ht.w"
+    },
+    {
+      "id": "x",
+      "upper": "X",
+      "lower": "x",
+      "examples": [],
+      "letterAudioKey": "letters.ht.x"
+    },
+    {
+      "id": "y",
+      "upper": "Y",
+      "lower": "y",
+      "examples": [],
+      "letterAudioKey": "letters.ht.y"
+    },
+    {
+      "id": "z",
+      "upper": "Z",
+      "lower": "z",
+      "examples": [],
+      "letterAudioKey": "letters.ht.z"
+    }
+  ]
+}

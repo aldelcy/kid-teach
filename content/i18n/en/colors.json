@@ -1,0 +1,104 @@
+{
+  "colors": [
+    {
+      "id": "red",
+      "name": "Red",
+      "hex": "#EF4444",
+      "examples": [
+        "apple",
+        "fire truck",
+        "tomato"
+      ]
+    },
+    {
+      "id": "blue",
+      "name": "Blue",
+      "hex": "#3B82F6",
+      "examples": [
+        "sky",
+        "whale",
+        "jeans"
+      ]
+    },
+    {
+      "id": "green",
+      "name": "Green",
+      "hex": "#22C55E",
+      "examples": [
+        "leaf",
+        "frog",
+        "lime"
+      ]
+    },
+    {
+      "id": "yellow",
+      "name": "Yellow",
+      "hex": "#EAB308",
+      "examples": [
+        "sun",
+        "banana",
+        "duckling"
+      ]
+    },
+    {
+      "id": "orange",
+      "name": "Orange",
+      "hex": "#F97316",
+      "examples": [
+        "orange",
+        "carrot",
+        "pumpkin"
+      ]
+    },
+    {
+      "id": "purple",
+      "name": "Purple",
+      "hex": "#A855F7",
+      "examples": [
+        "grape",
+        "violet",
+        "plum"
+      ]
+    },
+    {
+      "id": "pink",
+      "name": "Pink",
+      "hex": "#EC4899",
+      "examples": [
+        "flower",
+        "cotton candy",
+        "flamingo"
+      ]
+    },
+    {
+      "id": "black",
+      "name": "Black",
+      "hex": "#111827",
+      "examples": [
+        "night",
+        "piano keys",
+        "panther"
+      ]
+    },
+    {
+      "id": "white",
+      "name": "White",
+      "hex": "#FFFFFF",
+      "examples": [
+        "cloud",
+        "snow",
+        "milk"
+      ]
+    },
+    {
+      "id": "brown",
+      "name": "Brown",
+      "hex": "#92400E",
+      "examples": [
+        "bear",
+        "chocolate",
+        "tree bark"
+      ]
+    }
+  ]
+}

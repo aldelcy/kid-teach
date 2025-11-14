@@ -1,0 +1,680 @@
+{
+  "letters": [
+    {
+      "id": "a",
+      "upper": "A",
+      "lower": "a",
+      "examples": [
+        {
+          "word": "avion",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Avion_Express_Airbus_A320_LY-VEY_%286705403435%29_%282%29.jpg",
+          "audioKey": "letters.fr.a.word.avion",
+          "sound": "/assets/audio/letters/fr/examples/avion.mp3"
+        },
+        {
+          "word": "abeille",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuScvTK3s1BQEI0-FizjR2ARb5TUm8f_HaKg&s",
+          "audioKey": "letters.fr.a.word.abeille",
+          "sound": "/assets/audio/letters/fr/examples/abeille.mp3"
+        },
+        {
+          "word": "arbre",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx9RtzKtPC3EJhod6xpksci0HC2qaU7h_Ljg&s",
+          "audioKey": "letters.fr.a.word.arbre",
+          "sound": "/assets/audio/letters/fr/examples/arbre.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.a"
+    },
+    {
+      "id": "b",
+      "upper": "B",
+      "lower": "b",
+      "examples": [
+        {
+          "word": "balle",
+          "image": "/assets/images/alphabet/b/balle.jpg",
+          "audioKey": "letters.fr.b.word.balle",
+          "sound": "/assets/audio/letters/fr/examples/balle.mp3"
+        },
+        {
+          "word": "banane",
+          "image": "/assets/images/alphabet/b/banane.jpg",
+          "audioKey": "letters.fr.b.word.banane",
+          "sound": "/assets/audio/letters/fr/examples/banane.mp3"
+        },
+        {
+          "word": "bateau",
+          "image": "/assets/images/alphabet/b/bateau.jpg",
+          "audioKey": "letters.fr.b.word.bateau",
+          "sound": "/assets/audio/letters/fr/examples/bateau.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.b"
+    },
+    {
+      "id": "c",
+      "upper": "C",
+      "lower": "c",
+      "examples": [
+        {
+          "word": "chat",
+          "image": "/assets/images/alphabet/c/chat.jpg",
+          "audioKey": "letters.fr.c.word.chat",
+          "sound": "/assets/audio/letters/fr/examples/chat.mp3"
+        },
+        {
+          "word": "cheval",
+          "image": "/assets/images/alphabet/c/cheval.jpg",
+          "audioKey": "letters.fr.c.word.cheval",
+          "sound": "/assets/audio/letters/fr/examples/cheval.mp3"
+        },
+        {
+          "word": "camion",
+          "image": "/assets/images/alphabet/c/camion.jpg",
+          "audioKey": "letters.fr.c.word.camion",
+          "sound": "/assets/audio/letters/fr/examples/camion.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.c"
+    },
+    {
+      "id": "d",
+      "upper": "D",
+      "lower": "d",
+      "examples": [
+        {
+          "word": "dauphin",
+          "image": "/assets/images/alphabet/d/dauphin.jpg",
+          "audioKey": "letters.fr.d.word.dauphin",
+          "sound": "/assets/audio/letters/fr/examples/dauphin.mp3"
+        },
+        {
+          "word": "dinde",
+          "image": "/assets/images/alphabet/d/dinde.jpg",
+          "audioKey": "letters.fr.d.word.dinde",
+          "sound": "/assets/audio/letters/fr/examples/dinde.mp3"
+        },
+        {
+          "word": "dinosaure",
+          "image": "/assets/images/alphabet/d/dinosaure.jpg",
+          "audioKey": "letters.fr.d.word.dinosaure",
+          "sound": "/assets/audio/letters/fr/examples/dinosaure.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.d"
+    },
+    {
+      "id": "e",
+      "upper": "E",
+      "lower": "e",
+      "examples": [
+        {
+          "word": "éléphant",
+          "image": "/assets/images/alphabet/e/elephant.jpg",
+          "audioKey": "letters.fr.e.word.elephant",
+          "sound": "/assets/audio/letters/fr/examples/elephant.mp3"
+        },
+        {
+          "word": "escargot",
+          "image": "/assets/images/alphabet/e/escargot.jpg",
+          "audioKey": "letters.fr.e.word.escargot",
+          "sound": "/assets/audio/letters/fr/examples/escargot.mp3"
+        },
+        {
+          "word": "étoile",
+          "image": "/assets/images/alphabet/e/etoile.jpg",
+          "audioKey": "letters.fr.e.word.etoile",
+          "sound": "/assets/audio/letters/fr/examples/etoile.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.e"
+    },
+    {
+      "id": "f",
+      "upper": "F",
+      "lower": "f",
+      "examples": [
+        {
+          "word": "fleur",
+          "image": "/assets/images/alphabet/f/fleur.jpg",
+          "audioKey": "letters.fr.f.word.fleur",
+          "sound": "/assets/audio/letters/fr/examples/fleur.mp3"
+        },
+        {
+          "word": "fraise",
+          "image": "/assets/images/alphabet/f/fraise.jpg",
+          "audioKey": "letters.fr.f.word.fraise",
+          "sound": "/assets/audio/letters/fr/examples/fraise.mp3"
+        },
+        {
+          "word": "famille",
+          "image": "/assets/images/alphabet/f/famille.jpg",
+          "audioKey": "letters.fr.f.word.famille",
+          "sound": "/assets/audio/letters/fr/examples/famille.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.f"
+    },
+    {
+      "id": "g",
+      "upper": "G",
+      "lower": "g",
+      "examples": [
+        {
+          "word": "girafe",
+          "image": "/assets/images/alphabet/g/girafe.jpg",
+          "audioKey": "letters.fr.g.word.girafe",
+          "sound": "/assets/audio/letters/fr/examples/girafe.mp3"
+        },
+        {
+          "word": "gâteau",
+          "image": "/assets/images/alphabet/g/gateau.jpg",
+          "audioKey": "letters.fr.g.word.gateau",
+          "sound": "/assets/audio/letters/fr/examples/gateau.mp3"
+        },
+        {
+          "word": "gorille",
+          "image": "/assets/images/alphabet/g/gorille.jpg",
+          "audioKey": "letters.fr.g.word.gorille",
+          "sound": "/assets/audio/letters/fr/examples/gorille.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.g"
+    },
+    {
+      "id": "h",
+      "upper": "H",
+      "lower": "h",
+      "examples": [
+        {
+          "word": "hippopotame",
+          "image": "/assets/images/alphabet/h/hippopotame.jpg",
+          "audioKey": "letters.fr.h.word.hippopotame",
+          "sound": "/assets/audio/letters/fr/examples/hippopotame.mp3"
+        },
+        {
+          "word": "hélicoptère",
+          "image": "/assets/images/alphabet/h/helicoptere.jpg",
+          "audioKey": "letters.fr.h.word.helicoptere",
+          "sound": "/assets/audio/letters/fr/examples/helicoptere.mp3"
+        },
+        {
+          "word": "hérisson",
+          "image": "/assets/images/alphabet/h/herisson.jpg",
+          "audioKey": "letters.fr.h.word.herisson",
+          "sound": "/assets/audio/letters/fr/examples/herisson.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.h"
+    },
+    {
+      "id": "i",
+      "upper": "I",
+      "lower": "i",
+      "examples": [
+        {
+          "word": "igloo",
+          "image": "/assets/images/alphabet/i/igloo.jpg",
+          "audioKey": "letters.fr.i.word.igloo",
+          "sound": "/assets/audio/letters/fr/examples/igloo.mp3"
+        },
+        {
+          "word": "iguane",
+          "image": "/assets/images/alphabet/i/iguane.jpg",
+          "audioKey": "letters.fr.i.word.iguane",
+          "sound": "/assets/audio/letters/fr/examples/iguane.mp3"
+        },
+        {
+          "word": "insecte",
+          "image": "/assets/images/alphabet/i/insecte.jpg",
+          "audioKey": "letters.fr.i.word.insecte",
+          "sound": "/assets/audio/letters/fr/examples/insecte.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.i"
+    },
+    {
+      "id": "j",
+      "upper": "J",
+      "lower": "j",
+      "examples": [
+        {
+          "word": "jus",
+          "image": "/assets/images/alphabet/j/jus.jpg",
+          "audioKey": "letters.fr.j.word.jus",
+          "sound": "/assets/audio/letters/fr/examples/jus.mp3"
+        },
+        {
+          "word": "jouet",
+          "image": "/assets/images/alphabet/j/jouet.jpg",
+          "audioKey": "letters.fr.j.word.jouet",
+          "sound": "/assets/audio/letters/fr/examples/jouet.mp3"
+        },
+        {
+          "word": "jambon",
+          "image": "/assets/images/alphabet/j/jambon.jpg",
+          "audioKey": "letters.fr.j.word.jambon",
+          "sound": "/assets/audio/letters/fr/examples/jambon.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.j"
+    },
+    {
+      "id": "k",
+      "upper": "K",
+      "lower": "k",
+      "examples": [
+        {
+          "word": "koala",
+          "image": "/assets/images/alphabet/k/koala.jpg",
+          "audioKey": "letters.fr.k.word.koala",
+          "sound": "/assets/audio/letters/fr/examples/koala.mp3"
+        },
+        {
+          "word": "kangourou",
+          "image": "/assets/images/alphabet/k/kangourou.jpg",
+          "audioKey": "letters.fr.k.word.kangourou",
+          "sound": "/assets/audio/letters/fr/examples/kangourou.mp3"
+        },
+        {
+          "word": "kayak",
+          "image": "/assets/images/alphabet/k/kayak.jpg",
+          "audioKey": "letters.fr.k.word.kayak",
+          "sound": "/assets/audio/letters/fr/examples/kayak.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.k"
+    },
+    {
+      "id": "l",
+      "upper": "L",
+      "lower": "l",
+      "examples": [
+        {
+          "word": "lion",
+          "image": "/assets/images/alphabet/l/lion.jpg",
+          "audioKey": "letters.fr.l.word.lion",
+          "sound": "/assets/audio/letters/fr/examples/lion.mp3"
+        },
+        {
+          "word": "lapin",
+          "image": "/assets/images/alphabet/l/lapin.jpg",
+          "audioKey": "letters.fr.l.word.lapin",
+          "sound": "/assets/audio/letters/fr/examples/lapin.mp3"
+        },
+        {
+          "word": "lune",
+          "image": "/assets/images/alphabet/l/lune.jpg",
+          "audioKey": "letters.fr.l.word.lune",
+          "sound": "/assets/audio/letters/fr/examples/lune.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.l"
+    },
+    {
+      "id": "m",
+      "upper": "M",
+      "lower": "m",
+      "examples": [
+        {
+          "word": "maison",
+          "image": "/assets/images/alphabet/m/maison.jpg",
+          "audioKey": "letters.fr.m.word.maison",
+          "sound": "/assets/audio/letters/fr/examples/maison.mp3"
+        },
+        {
+          "word": "mouton",
+          "image": "/assets/images/alphabet/m/mouton.jpg",
+          "audioKey": "letters.fr.m.word.mouton",
+          "sound": "/assets/audio/letters/fr/examples/mouton.mp3"
+        },
+        {
+          "word": "mer",
+          "image": "/assets/images/alphabet/m/mer.jpg",
+          "audioKey": "letters.fr.m.word.mer",
+          "sound": "/assets/audio/letters/fr/examples/mer.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.m"
+    },
+    {
+      "id": "n",
+      "upper": "N",
+      "lower": "n",
+      "examples": [
+        {
+          "word": "nid",
+          "image": "/assets/images/alphabet/n/nid.jpg",
+          "audioKey": "letters.fr.n.word.nid",
+          "sound": "/assets/audio/letters/fr/examples/nid.mp3"
+        },
+        {
+          "word": "nez",
+          "image": "/assets/images/alphabet/n/nez.jpg",
+          "audioKey": "letters.fr.n.word.nez",
+          "sound": "/assets/audio/letters/fr/examples/nez.mp3"
+        },
+        {
+          "word": "noix",
+          "image": "/assets/images/alphabet/n/noix.jpg",
+          "audioKey": "letters.fr.n.word.noix",
+          "sound": "/assets/audio/letters/fr/examples/noix.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.n"
+    },
+    {
+      "id": "o",
+      "upper": "O",
+      "lower": "o",
+      "examples": [
+        {
+          "word": "orange",
+          "image": "/assets/images/alphabet/o/orange.jpg",
+          "audioKey": "letters.fr.o.word.orange",
+          "sound": "/assets/audio/letters/fr/examples/orange.mp3"
+        },
+        {
+          "word": "ours",
+          "image": "/assets/images/alphabet/o/ours.jpg",
+          "audioKey": "letters.fr.o.word.ours",
+          "sound": "/assets/audio/letters/fr/examples/ours.mp3"
+        },
+        {
+          "word": "oiseau",
+          "image": "/assets/images/alphabet/o/oiseau.jpg",
+          "audioKey": "letters.fr.o.word.oiseau",
+          "sound": "/assets/audio/letters/fr/examples/oiseau.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.o"
+    },
+    {
+      "id": "p",
+      "upper": "P",
+      "lower": "p",
+      "examples": [
+        {
+          "word": "pomme",
+          "image": "/assets/images/alphabet/p/pomme.jpg",
+          "audioKey": "letters.fr.p.word.pomme",
+          "sound": "/assets/audio/letters/fr/examples/pomme.mp3"
+        },
+        {
+          "word": "papillon",
+          "image": "/assets/images/alphabet/p/papillon.jpg",
+          "audioKey": "letters.fr.p.word.papillon",
+          "sound": "/assets/audio/letters/fr/examples/papillon.mp3"
+        },
+        {
+          "word": "poisson",
+          "image": "/assets/images/alphabet/p/poisson.jpg",
+          "audioKey": "letters.fr.p.word.poisson",
+          "sound": "/assets/audio/letters/fr/examples/poisson.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.p"
+    },
+    {
+      "id": "q",
+      "upper": "Q",
+      "lower": "q",
+      "examples": [
+        {
+          "word": "queue",
+          "image": "/assets/images/alphabet/q/queue.jpg",
+          "audioKey": "letters.fr.q.word.queue",
+          "sound": "/assets/audio/letters/fr/examples/queue.mp3"
+        },
+        {
+          "word": "quille",
+          "image": "/assets/images/alphabet/q/quille.jpg",
+          "audioKey": "letters.fr.q.word.quille",
+          "sound": "/assets/audio/letters/fr/examples/quille.mp3"
+        },
+        {
+          "word": "question",
+          "image": "/assets/images/alphabet/q/question.jpg",
+          "audioKey": "letters.fr.q.word.question",
+          "sound": "/assets/audio/letters/fr/examples/question.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.q"
+    },
+    {
+      "id": "r",
+      "upper": "R",
+      "lower": "r",
+      "examples": [
+        {
+          "word": "rouge",
+          "image": "/assets/images/alphabet/r/rouge.jpg",
+          "audioKey": "letters.fr.r.word.rouge",
+          "sound": "/assets/audio/letters/fr/examples/rouge.mp3"
+        },
+        {
+          "word": "renard",
+          "image": "/assets/images/alphabet/r/renard.jpg",
+          "audioKey": "letters.fr.r.word.renard",
+          "sound": "/assets/audio/letters/fr/examples/renard.mp3"
+        },
+        {
+          "word": "robot",
+          "image": "/assets/images/alphabet/r/robot.jpg",
+          "audioKey": "letters.fr.r.word.robot",
+          "sound": "/assets/audio/letters/fr/examples/robot.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.r"
+    },
+    {
+      "id": "s",
+      "upper": "S",
+      "lower": "s",
+      "examples": [
+        {
+          "word": "soleil",
+          "image": "/assets/images/alphabet/s/soleil.jpg",
+          "audioKey": "letters.fr.s.word.soleil",
+          "sound": "/assets/audio/letters/fr/examples/soleil.mp3"
+        },
+        {
+          "word": "serpent",
+          "image": "/assets/images/alphabet/s/serpent.jpg",
+          "audioKey": "letters.fr.s.word.serpent",
+          "sound": "/assets/audio/letters/fr/examples/serpent.mp3"
+        },
+        {
+          "word": "singe",
+          "image": "/assets/images/alphabet/s/singe.jpg",
+          "audioKey": "letters.fr.s.word.singe",
+          "sound": "/assets/audio/letters/fr/examples/singe.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.s"
+    },
+    {
+      "id": "t",
+      "upper": "T",
+      "lower": "t",
+      "examples": [
+        {
+          "word": "tigre",
+          "image": "/assets/images/alphabet/t/tigre.jpg",
+          "audioKey": "letters.fr.t.word.tigre",
+          "sound": "/assets/audio/letters/fr/examples/tigre.mp3"
+        },
+        {
+          "word": "tomate",
+          "image": "/assets/images/alphabet/t/tomate.jpg",
+          "audioKey": "letters.fr.t.word.tomate",
+          "sound": "/assets/audio/letters/fr/examples/tomate.mp3"
+        },
+        {
+          "word": "train",
+          "image": "/assets/images/alphabet/t/train.jpg",
+          "audioKey": "letters.fr.t.word.train",
+          "sound": "/assets/audio/letters/fr/examples/train.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.t"
+    },
+    {
+      "id": "u",
+      "upper": "U",
+      "lower": "u",
+      "examples": [
+        {
+          "word": "uniforme",
+          "image": "/assets/images/alphabet/u/uniforme.jpg",
+          "audioKey": "letters.fr.u.word.uniforme",
+          "sound": "/assets/audio/letters/fr/examples/uniforme.mp3"
+        },
+        {
+          "word": "univers",
+          "image": "/assets/images/alphabet/u/univers.jpg",
+          "audioKey": "letters.fr.u.word.univers",
+          "sound": "/assets/audio/letters/fr/examples/univers.mp3"
+        },
+        {
+          "word": "urne",
+          "image": "/assets/images/alphabet/u/urne.jpg",
+          "audioKey": "letters.fr.u.word.urne",
+          "sound": "/assets/audio/letters/fr/examples/urne.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.u"
+    },
+    {
+      "id": "v",
+      "upper": "V",
+      "lower": "v",
+      "examples": [
+        {
+          "word": "violon",
+          "image": "/assets/images/alphabet/v/violon.jpg",
+          "audioKey": "letters.fr.v.word.violon",
+          "sound": "/assets/audio/letters/fr/examples/violon.mp3"
+        },
+        {
+          "word": "voiture",
+          "image": "/assets/images/alphabet/v/voiture.jpg",
+          "audioKey": "letters.fr.v.word.voiture",
+          "sound": "/assets/audio/letters/fr/examples/voiture.mp3"
+        },
+        {
+          "word": "vélo",
+          "image": "/assets/images/alphabet/v/velo.jpg",
+          "audioKey": "letters.fr.v.word.velo",
+          "sound": "/assets/audio/letters/fr/examples/velo.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.v"
+    },
+    {
+      "id": "w",
+      "upper": "W",
+      "lower": "w",
+      "examples": [
+        {
+          "word": "wagon",
+          "image": "/assets/images/alphabet/w/wagon.jpg",
+          "audioKey": "letters.fr.w.word.wagon",
+          "sound": "/assets/audio/letters/fr/examples/wagon.mp3"
+        },
+        {
+          "word": "web",
+          "image": "/assets/images/alphabet/w/web.jpg",
+          "audioKey": "letters.fr.w.word.web",
+          "sound": "/assets/audio/letters/fr/examples/web.mp3"
+        },
+        {
+          "word": "week-end",
+          "image": "/assets/images/alphabet/w/weekend.jpg",
+          "audioKey": "letters.fr.w.word.weekend",
+          "sound": "/assets/audio/letters/fr/examples/weekend.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.w"
+    },
+    {
+      "id": "x",
+      "upper": "X",
+      "lower": "x",
+      "examples": [
+        {
+          "word": "xylophone",
+          "image": "/assets/images/alphabet/x/xylophone.jpg",
+          "audioKey": "letters.fr.x.word.xylophone",
+          "sound": "/assets/audio/letters/fr/examples/xylophone.mp3"
+        },
+        {
+          "word": "xénophile",
+          "image": "/assets/images/alphabet/x/xenophile.jpg",
+          "audioKey": "letters.fr.x.word.xenophile",
+          "sound": "/assets/audio/letters/fr/examples/xenophile.mp3"
+        },
+        {
+          "word": "xénon",
+          "image": "/assets/images/alphabet/x/xenon.jpg",
+          "audioKey": "letters.fr.x.word.xenon",
+          "sound": "/assets/audio/letters/fr/examples/xenon.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.x"
+    },
+    {
+      "id": "y",
+      "upper": "Y",
+      "lower": "y",
+      "examples": [
+        {
+          "word": "yack",
+          "image": "/assets/images/alphabet/y/yack.jpg",
+          "audioKey": "letters.fr.y.word.yack",
+          "sound": "/assets/audio/letters/fr/examples/yack.mp3"
+        },
+        {
+          "word": "yaourt",
+          "image": "/assets/images/alphabet/y/yaourt.jpg",
+          "audioKey": "letters.fr.y.word.yaourt",
+          "sound": "/assets/audio/letters/fr/examples/yaourt.mp3"
+        },
+        {
+          "word": "yo-yo",
+          "image": "/assets/images/alphabet/y/yoyo.jpg",
+          "audioKey": "letters.fr.y.word.yoyo",
+          "sound": "/assets/audio/letters/fr/examples/yoyo.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.y"
+    },
+    {
+      "id": "z",
+      "upper": "Z",
+      "lower": "z",
+      "examples": [
+        {
+          "word": "zèbre",
+          "image": "/assets/images/alphabet/z/zebre.jpg",
+          "audioKey": "letters.fr.z.word.zebre",
+          "sound": "/assets/audio/letters/fr/examples/zebre.mp3"
+        },
+        {
+          "word": "zoo",
+          "image": "/assets/images/alphabet/z/zoo.jpg",
+          "audioKey": "letters.fr.z.word.zoo",
+          "sound": "/assets/audio/letters/fr/examples/zoo.mp3"
+        },
+        {
+          "word": "zéro",
+          "image": "/assets/images/alphabet/z/zero.jpg",
+          "audioKey": "letters.fr.z.word.zero",
+          "sound": "/assets/audio/letters/fr/examples/zero.mp3"
+        }
+      ],
+      "letterAudioKey": "letters.fr.z"
+    }
+  ]
+}

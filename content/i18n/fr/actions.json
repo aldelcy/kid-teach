@@ -1,0 +1,54 @@
+{
+  "actions": [
+    {
+      "id": "clap",
+      "verb": "Applaudir",
+      "motionHint": "pulse"
+    },
+    {
+      "id": "jump",
+      "verb": "Sauter",
+      "motionHint": "bounce"
+    },
+    {
+      "id": "sleep",
+      "verb": "Dormir",
+      "motionHint": "fade"
+    },
+    {
+      "id": "eat",
+      "verb": "Manger",
+      "motionHint": "nibble"
+    },
+    {
+      "id": "drink",
+      "verb": "Boire",
+      "motionHint": "tilt"
+    },
+    {
+      "id": "run",
+      "verb": "Courir",
+      "motionHint": "slide"
+    },
+    {
+      "id": "hug",
+      "verb": "Faire un câlin",
+      "motionHint": "squeeze"
+    },
+    {
+      "id": "wave",
+      "verb": "Faire signe",
+      "motionHint": "wave"
+    },
+    {
+      "id": "read",
+      "verb": "Lire",
+      "motionHint": "flip"
+    },
+    {
+      "id": "dance",
+      "verb": "Danser",
+      "motionHint": "wiggle"
+    }
+  ]
+}
